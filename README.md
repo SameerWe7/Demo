@@ -1,5 +1,5 @@
 # Demo
 New account New repo
 <br>
-Author - Sameer Butola
+Author - Sameer Premsingh Butola
 
